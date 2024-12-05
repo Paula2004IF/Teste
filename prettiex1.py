@@ -60,6 +60,8 @@ q7()
 def q8():
     num1 = int(input('Digite um número: '))
     num2 = int(input('Digite outro número: '))
+    diferenca = num2-num1
+    
     
 #9. Faça um programa que leia um número real e imprima ¼ deste número.
 
