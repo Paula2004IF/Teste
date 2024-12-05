@@ -7,9 +7,20 @@ Exercícios sobre os comandos básicos em Python
 
 def q1():
     print('PAULA')
-    q1()
+    
+q1()
 #2. Faça um programa que imprima o produto dos valores 30 e 27.
+
+def q2():
+    print(10*3)
+q2()
 #3. Faça um programa que imprima a média aritmética entre os números 5, 8, 12.
+
+def q3():
+    print((5+8+12)/(3))
+q3()
+
+
 
 #4. Faça um programa que leia e imprima um número inteiro.
 
